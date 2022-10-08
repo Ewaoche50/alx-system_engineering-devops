@@ -1,1 +1,2 @@
-/tmp/u
+#!/bin/bash
+-p welcome/to/school
