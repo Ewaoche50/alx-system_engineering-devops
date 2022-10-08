@@ -1,2 +1,3 @@
 #!/bin/bash
 ls -la /tmp/u
+[[:upper:]]* /tmp/u
